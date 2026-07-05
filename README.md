@@ -56,4 +56,3 @@ This is the distilled framework — the principle library, playbooks, and audit 
 - **Any tooling or pipeline** used to produce the original analysis.
 
 Cited research is public — look up the primary sources directly.
-# high-converting-ui-skill
