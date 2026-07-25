@@ -27,6 +27,7 @@ The corollary that runs through every principle below: **users are not making lo
 
 - **Designing a new screen** → pick the matching playbook in [Screen playbooks](#screen-playbooks), then pull principles from the library.
 - **Critiquing / auditing an existing screen** → run the [Conversion audit checklist](#conversion-audit-checklist); for each flag, cite the principle and the specific fix.
+- **Building a whole page rather than critiquing a screen** → start with `conversion-page-anatomy` for section order, page-type variant, and CTA/social-proof cadence, then return here to write the contents of each slot. That skill decides *what sections exist*; this one decides *what goes in them*.
 - **Explaining *why* a change works** → every principle carries its research/psychology so recommendations are grounded, not gut-feel.
 - **Pair with a visual-craft skill** for the aesthetic layer (typography scale, spacing rhythm, color systems). This skill covers the *persuasion* layer; craft covers the *aesthetic* layer. High-converting AND visually pleasing = both.
 
@@ -56,6 +57,7 @@ Pre-fill every field with the most common choice. Pre-select the option most use
 Cut the number of options presented at once. Reveal complexity progressively.
 *Why:* Columbia's jam study — 24 flavors displayed → 3% bought; 6 flavors → 30% bought. More choice means harder, not better.
 *Pattern:* show 3 pricing tiers, not 8; collapse edge-case options behind "More options".
+*Scope:* A3 governs *simultaneous distinct* choices. Repeating one identical CTA down a long page is reinforcement, not choice — the choice set stays at n=1, so it does not violate Hick’s. Two *competing* CTAs in one section do. Icon/benefit rails are scanned rather than chosen between, so 7 items is fine there.
 
 **A4 — Recognition over recall (kill the dropdown).**
 For fewer than ~5 options, replace dropdowns with visible swatches/cards/buttons.
@@ -66,6 +68,7 @@ For fewer than ~5 options, replace dropdowns with visible swatches/cards/buttons
 Keep the initial view clean; reveal detail on interaction.
 *Why:* protects the primary decision from overwhelm while still rewarding engagement.
 *Pattern:* clicking "One-time purchase" expands to show tiered bundles (1mo, 2mo −10%, 3mo −20%); advanced settings hidden until asked for.
+*Scope:* applies to interaction depth (accordions, expanders) inside the decision zone — not to page length. A long scroll of self-contained sections is not cognitive load. Collapse detail *inside* the decision zone; expand it below the fold.
 
 **A6 — Evaluative ease.**
 Make options directly comparable in ~2 seconds. Remove anything the brain has to compute.

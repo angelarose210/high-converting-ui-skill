@@ -13,6 +13,8 @@ paths:
 
 When designing, critiquing, or improving any screen where a user makes a decision (buy, subscribe, sign up, book, upgrade), apply conversion psychology — not just visual polish. Always give the **rule + the reason + the concrete pattern**, not vague advice.
 
+Building a *whole page* rather than critiquing a screen? Start with the companion `conversion-page-anatomy` rule for section order, page-type variant, and CTA/social-proof cadence, then apply the principles below to fill each slot.
+
 ## The core idea
 
 > Every element on a screen asks the user a question. The question you ask determines whether they act or hesitate.
@@ -24,9 +26,9 @@ When designing, critiquing, or improving any screen where a user makes a decisio
 **Reduce the cost of deciding**
 - **A1 Ask the easy question** — reframe hard → easy. CTA frames the low-commitment next step, not the terminal commitment. "How your free trial works" > "Get access — $19/mo".
 - **A2 Smart defaults** — 70–90% never change a default; it reads as a recommendation. Pre-select the target option with "Most Popular"; pre-fill forms; button = "Show 12 results" not blank "Search".
-- **A3 Fewer choices** — jam study: 24 options → 3% bought, 6 → 30%. Show ≤3 tiers; collapse the rest behind "More options".
+- **A3 Fewer choices** — jam study: 24 options → 3% bought, 6 → 30%. Show ≤3 tiers; collapse the rest behind "More options". *Scope:* governs *simultaneous distinct* choices — repeating one identical CTA down a long page is reinforcement, not choice (the set stays at n=1), so it doesn't violate Hick's. Two *competing* CTAs in one section do. Scanned icon/benefit rails can exceed 5.
 - **A4 Recognition over recall** — for <5 options, kill the dropdown; use visible swatches/cards. A dropdown forces click→scroll→read just to see choices.
-- **A5 Progressive disclosure** — clean initial view; reveal detail on interaction (clicking a choice expands bundle tiers).
+- **A5 Progressive disclosure** — clean initial view; reveal detail on interaction (clicking a choice expands bundle tiers). *Scope:* interaction depth inside the decision zone, not page length — a long scroll of self-contained sections is not cognitive load. Collapse detail inside the decision zone; expand it below the fold.
 - **A6 Evaluative ease** — options comparable in ~2s. One number per option; show totals so there's no math.
 
 **Frame and anchor**
