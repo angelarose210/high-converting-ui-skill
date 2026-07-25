@@ -13,6 +13,8 @@ paths:
 
 When building or restructuring a **whole page** (landing, homepage, service/SEO, contact, collection, product detail), decide the section list and order *before* writing any element. This rule owns section architecture; the companion `high-converting-ui` rule owns the words and elements inside each section.
 
+Page anatomy below is distilled from the wireframe framework published by **ThrillX** ([@arsh-sanwarwala](https://www.youtube.com/@arsh-sanwarwala)) — see [How To Build The PERFECT Landing Page](https://www.youtube.com/watch?v=tAzpvg0TDZc).
+
 ## The core idea
 
 > A long page is not a cognitive burden if every section is self-contained and terminates in the same single action.

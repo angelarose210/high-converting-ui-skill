@@ -43,6 +43,8 @@ Most conversion advice operates on one screen. This one operates on the **whole 
 - **Copy formulas per block** — headline (`End Result, Time Period, Emotional Payoff`), the negation-hook subhead, the 3-step how-it-works whose last step is an emotional payoff rather than a task, the negated-mirror comparison table.
 - **The PDP image carousel** — a 7-slide sequence (5 mandatory, 2 conditional) for product galleries, which is a separate artifact from the page itself.
 
+**Source.** The page anatomy is distilled from the annotated wireframe framework published by **ThrillX** ([@arsh-sanwarwala](https://www.youtube.com/@arsh-sanwarwala)), walked through in [How To Build The PERFECT Landing Page](https://www.youtube.com/watch?v=tAzpvg0TDZc), plus their accompanying ecommerce product-image template. Credit for the underlying structure is theirs; this skill restates it as agent-usable rules and reconciles it against the persuasion principles in `high-converting-ui`.
+
 ```
 Use conversion-page-anatomy to lay out a landing page for my SaaS, then high-converting-ui to write the CTAs.
 ```
@@ -90,7 +92,7 @@ A visual-craft skill (typography scale, spacing rhythm, color systems). These tw
 These are the distilled frameworks — the principle library, playbooks, spine, and checklists. They deliberately do **not** bundle:
 
 - **Source video transcripts, key frames, or screenshots.** `high-converting-ui` was distilled from third-party UX case-study videos; those copyrighted materials aren't redistributed. Every principle is stated in full on its own terms, so the skill is fully standalone.
-- **Source wireframe files or template extracts.** `conversion-page-anatomy` was distilled from a survey of production page structures; no third-party design files are redistributed. The section spine, cadence rules, and formulas are stated in full.
+- **Source wireframe files or template extracts.** `conversion-page-anatomy` restates the ThrillX wireframe framework (credited below); the underlying Figma files aren't redistributed. The section spine, cadence rules, and formulas are stated in full, so the skill is standalone.
 - **Named brands as case data.** Brand names appear only as widely-known illustrations of a public pattern, not as endorsements or proprietary data.
 - **Any tooling or pipeline** used to produce the original analysis.
 

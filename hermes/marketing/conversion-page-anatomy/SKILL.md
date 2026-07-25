@@ -14,7 +14,7 @@ metadata:
 
 This skill decides **what sections exist and in what order**. It does not decide the words inside them — that is [`high-converting-ui`](#pairing-with-high-converting-ui), and the pairing is mandatory, not optional.
 
-Distilled from a survey of production landing-page, website, and ecommerce page structures — the section sequences and cadence rules that recur across high-converting long-form pages.
+Distilled from the annotated landing-page and website wireframe framework published by **ThrillX** ([@arsh-sanwarwala](https://www.youtube.com/@arsh-sanwarwala)), walked through in [How To Build The PERFECT Landing Page](https://www.youtube.com/watch?v=tAzpvg0TDZc), plus the accompanying ecommerce product-image template. The section sequences, cadence rules, and copy formulas below are that framework restated — credit for the underlying page anatomy is theirs.
 
 ---
 
